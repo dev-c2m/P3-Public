@@ -1,0 +1,704 @@
+{
+  "levels": [
+    {
+      "id": 1,
+      "level": 1,
+      "requiredExp": 0,
+      "maxHp": 100,
+      "maxMp": 50
+    },
+    {
+      "id": 2,
+      "level": 2,
+      "requiredExp": 100,
+      "maxHp": 120,
+      "maxMp": 60
+    },
+    {
+      "id": 3,
+      "level": 3,
+      "requiredExp": 215,
+      "maxHp": 140,
+      "maxMp": 70
+    },
+    {
+      "id": 4,
+      "level": 4,
+      "requiredExp": 347,
+      "maxHp": 160,
+      "maxMp": 80
+    },
+    {
+      "id": 5,
+      "level": 5,
+      "requiredExp": 499,
+      "maxHp": 180,
+      "maxMp": 90
+    },
+    {
+      "id": 6,
+      "level": 6,
+      "requiredExp": 674,
+      "maxHp": 200,
+      "maxMp": 100
+    },
+    {
+      "id": 7,
+      "level": 7,
+      "requiredExp": 875,
+      "maxHp": 220,
+      "maxMp": 110
+    },
+    {
+      "id": 8,
+      "level": 8,
+      "requiredExp": 1106,
+      "maxHp": 240,
+      "maxMp": 120
+    },
+    {
+      "id": 9,
+      "level": 9,
+      "requiredExp": 1372,
+      "maxHp": 260,
+      "maxMp": 130
+    },
+    {
+      "id": 10,
+      "level": 10,
+      "requiredExp": 1678,
+      "maxHp": 280,
+      "maxMp": 140
+    },
+    {
+      "id": 11,
+      "level": 11,
+      "requiredExp": 2030,
+      "maxHp": 300,
+      "maxMp": 150
+    },
+    {
+      "id": 12,
+      "level": 12,
+      "requiredExp": 2434,
+      "maxHp": 320,
+      "maxMp": 160
+    },
+    {
+      "id": 13,
+      "level": 13,
+      "requiredExp": 2899,
+      "maxHp": 340,
+      "maxMp": 170
+    },
+    {
+      "id": 14,
+      "level": 14,
+      "requiredExp": 3434,
+      "maxHp": 360,
+      "maxMp": 180
+    },
+    {
+      "id": 15,
+      "level": 15,
+      "requiredExp": 4049,
+      "maxHp": 380,
+      "maxMp": 190
+    },
+    {
+      "id": 16,
+      "level": 16,
+      "requiredExp": 4756,
+      "maxHp": 400,
+      "maxMp": 200
+    },
+    {
+      "id": 17,
+      "level": 17,
+      "requiredExp": 5569,
+      "maxHp": 420,
+      "maxMp": 210
+    },
+    {
+      "id": 18,
+      "level": 18,
+      "requiredExp": 6504,
+      "maxHp": 440,
+      "maxMp": 220
+    },
+    {
+      "id": 19,
+      "level": 19,
+      "requiredExp": 7580,
+      "maxHp": 460,
+      "maxMp": 230
+    },
+    {
+      "id": 20,
+      "level": 20,
+      "requiredExp": 8817,
+      "maxHp": 480,
+      "maxMp": 240
+    },
+    {
+      "id": 21,
+      "level": 21,
+      "requiredExp": 10239,
+      "maxHp": 500,
+      "maxMp": 250
+    },
+    {
+      "id": 22,
+      "level": 22,
+      "requiredExp": 11875,
+      "maxHp": 520,
+      "maxMp": 260
+    },
+    {
+      "id": 23,
+      "level": 23,
+      "requiredExp": 13756,
+      "maxHp": 540,
+      "maxMp": 270
+    },
+    {
+      "id": 24,
+      "level": 24,
+      "requiredExp": 15919,
+      "maxHp": 560,
+      "maxMp": 280
+    },
+    {
+      "id": 25,
+      "level": 25,
+      "requiredExp": 18407,
+      "maxHp": 580,
+      "maxMp": 290
+    },
+    {
+      "id": 26,
+      "level": 26,
+      "requiredExp": 21268,
+      "maxHp": 600,
+      "maxMp": 300
+    },
+    {
+      "id": 27,
+      "level": 27,
+      "requiredExp": 24558,
+      "maxHp": 620,
+      "maxMp": 310
+    },
+    {
+      "id": 28,
+      "level": 28,
+      "requiredExp": 28341,
+      "maxHp": 640,
+      "maxMp": 320
+    },
+    {
+      "id": 29,
+      "level": 29,
+      "requiredExp": 32692,
+      "maxHp": 660,
+      "maxMp": 330
+    },
+    {
+      "id": 30,
+      "level": 30,
+      "requiredExp": 37696,
+      "maxHp": 680,
+      "maxMp": 340
+    },
+    {
+      "id": 31,
+      "level": 31,
+      "requiredExp": 43450,
+      "maxHp": 700,
+      "maxMp": 350
+    },
+    {
+      "id": 32,
+      "level": 32,
+      "requiredExp": 50067,
+      "maxHp": 720,
+      "maxMp": 360
+    },
+    {
+      "id": 33,
+      "level": 33,
+      "requiredExp": 57677,
+      "maxHp": 740,
+      "maxMp": 370
+    },
+    {
+      "id": 34,
+      "level": 34,
+      "requiredExp": 66428,
+      "maxHp": 760,
+      "maxMp": 380
+    },
+    {
+      "id": 35,
+      "level": 35,
+      "requiredExp": 76492,
+      "maxHp": 780,
+      "maxMp": 390
+    },
+    {
+      "id": 36,
+      "level": 36,
+      "requiredExp": 88066,
+      "maxHp": 800,
+      "maxMp": 400
+    },
+    {
+      "id": 37,
+      "level": 37,
+      "requiredExp": 101376,
+      "maxHp": 820,
+      "maxMp": 410
+    },
+    {
+      "id": 38,
+      "level": 38,
+      "requiredExp": 116682,
+      "maxHp": 840,
+      "maxMp": 420
+    },
+    {
+      "id": 39,
+      "level": 39,
+      "requiredExp": 134284,
+      "maxHp": 860,
+      "maxMp": 430
+    },
+    {
+      "id": 40,
+      "level": 40,
+      "requiredExp": 154527,
+      "maxHp": 880,
+      "maxMp": 440
+    },
+    {
+      "id": 41,
+      "level": 41,
+      "requiredExp": 177806,
+      "maxHp": 900,
+      "maxMp": 450
+    },
+    {
+      "id": 42,
+      "level": 42,
+      "requiredExp": 204577,
+      "maxHp": 920,
+      "maxMp": 460
+    },
+    {
+      "id": 43,
+      "level": 43,
+      "requiredExp": 235363,
+      "maxHp": 940,
+      "maxMp": 470
+    },
+    {
+      "id": 44,
+      "level": 44,
+      "requiredExp": 270768,
+      "maxHp": 960,
+      "maxMp": 480
+    },
+    {
+      "id": 45,
+      "level": 45,
+      "requiredExp": 311483,
+      "maxHp": 980,
+      "maxMp": 490
+    },
+    {
+      "id": 46,
+      "level": 46,
+      "requiredExp": 358305,
+      "maxHp": 1000,
+      "maxMp": 500
+    },
+    {
+      "id": 47,
+      "level": 47,
+      "requiredExp": 412151,
+      "maxHp": 1020,
+      "maxMp": 510
+    },
+    {
+      "id": 48,
+      "level": 48,
+      "requiredExp": 474073,
+      "maxHp": 1040,
+      "maxMp": 520
+    },
+    {
+      "id": 49,
+      "level": 49,
+      "requiredExp": 545284,
+      "maxHp": 1060,
+      "maxMp": 530
+    },
+    {
+      "id": 50,
+      "level": 50,
+      "requiredExp": 627176,
+      "maxHp": 1080,
+      "maxMp": 540
+    },
+    {
+      "id": 51,
+      "level": 51,
+      "requiredExp": 721352,
+      "maxHp": 1100,
+      "maxMp": 550
+    },
+    {
+      "id": 52,
+      "level": 52,
+      "requiredExp": 829655,
+      "maxHp": 1120,
+      "maxMp": 560
+    },
+    {
+      "id": 53,
+      "level": 53,
+      "requiredExp": 954103,
+      "maxHp": 1140,
+      "maxMp": 570
+    },
+    {
+      "id": 54,
+      "level": 54,
+      "requiredExp": 1097018,
+      "maxHp": 1160,
+      "maxMp": 580
+    },
+    {
+      "id": 55,
+      "level": 55,
+      "requiredExp": 1261070,
+      "maxHp": 1180,
+      "maxMp": 590
+    },
+    {
+      "id": 56,
+      "level": 56,
+      "requiredExp": 1449330,
+      "maxHp": 1200,
+      "maxMp": 600
+    },
+    {
+      "id": 57,
+      "level": 57,
+      "requiredExp": 1665330,
+      "maxHp": 1220,
+      "maxMp": 610
+    },
+    {
+      "id": 58,
+      "level": 58,
+      "requiredExp": 1913129,
+      "maxHp": 1240,
+      "maxMp": 620
+    },
+    {
+      "id": 59,
+      "level": 59,
+      "requiredExp": 2197348,
+      "maxHp": 1260,
+      "maxMp": 630
+    },
+    {
+      "id": 60,
+      "level": 60,
+      "requiredExp": 2523250,
+      "maxHp": 1280,
+      "maxMp": 640
+    },
+    {
+      "id": 61,
+      "level": 61,
+      "requiredExp": 2896887,
+      "maxHp": 1300,
+      "maxMp": 650
+    },
+    {
+      "id": 62,
+      "level": 62,
+      "requiredExp": 3325320,
+      "maxHp": 1320,
+      "maxMp": 660
+    },
+    {
+      "id": 63,
+      "level": 63,
+      "requiredExp": 3816618,
+      "maxHp": 1340,
+      "maxMp": 670
+    },
+    {
+      "id": 64,
+      "level": 64,
+      "requiredExp": 4380110,
+      "maxHp": 1360,
+      "maxMp": 680
+    },
+    {
+      "id": 65,
+      "level": 65,
+      "requiredExp": 5026527,
+      "maxHp": 1380,
+      "maxMp": 690
+    },
+    {
+      "id": 66,
+      "level": 66,
+      "requiredExp": 5768006,
+      "maxHp": 1400,
+      "maxMp": 700
+    },
+    {
+      "id": 67,
+      "level": 67,
+      "requiredExp": 6618207,
+      "maxHp": 1420,
+      "maxMp": 710
+    },
+    {
+      "id": 68,
+      "level": 68,
+      "requiredExp": 7592438,
+      "maxHp": 1440,
+      "maxMp": 720
+    },
+    {
+      "id": 69,
+      "level": 69,
+      "requiredExp": 8708903,
+      "maxHp": 1460,
+      "maxMp": 730
+    },
+    {
+      "id": 70,
+      "level": 70,
+      "requiredExp": 9988838,
+      "maxHp": 1480,
+      "maxMp": 740
+    },
+    {
+      "id": 71,
+      "level": 71,
+      "requiredExp": 11456764,
+      "maxHp": 1500,
+      "maxMp": 750
+    },
+    {
+      "id": 72,
+      "level": 72,
+      "requiredExp": 13141678,
+      "maxHp": 1520,
+      "maxMp": 760
+    },
+    {
+      "id": 73,
+      "level": 73,
+      "requiredExp": 15077530,
+      "maxHp": 1540,
+      "maxMp": 770
+    },
+    {
+      "id": 74,
+      "level": 74,
+      "requiredExp": 17303459,
+      "maxHp": 1560,
+      "maxMp": 780
+    },
+    {
+      "id": 75,
+      "level": 75,
+      "requiredExp": 19864478,
+      "maxHp": 1580,
+      "maxMp": 790
+    },
+    {
+      "id": 76,
+      "level": 76,
+      "requiredExp": 22812150,
+      "maxHp": 1600,
+      "maxMp": 800
+    },
+    {
+      "id": 77,
+      "level": 77,
+      "requiredExp": 26205372,
+      "maxHp": 1620,
+      "maxMp": 810
+    },
+    {
+      "id": 78,
+      "level": 78,
+      "requiredExp": 30111178,
+      "maxHp": 1640,
+      "maxMp": 820
+    },
+    {
+      "id": 79,
+      "level": 79,
+      "requiredExp": 34606054,
+      "maxHp": 1660,
+      "maxMp": 830
+    },
+    {
+      "id": 80,
+      "level": 80,
+      "requiredExp": 39777462,
+      "maxHp": 1680,
+      "maxMp": 840
+    },
+    {
+      "id": 81,
+      "level": 81,
+      "requiredExp": 45725581,
+      "maxHp": 1700,
+      "maxMp": 850
+    },
+    {
+      "id": 82,
+      "level": 82,
+      "requiredExp": 52564918,
+      "maxHp": 1720,
+      "maxMp": 860
+    },
+    {
+      "id": 83,
+      "level": 83,
+      "requiredExp": 60426155,
+      "maxHp": 1740,
+      "maxMp": 870
+    },
+    {
+      "id": 84,
+      "level": 84,
+      "requiredExp": 69457578,
+      "maxHp": 1760,
+      "maxMp": 880
+    },
+    {
+      "id": 85,
+      "level": 85,
+      "requiredExp": 79828214,
+      "maxHp": 1780,
+      "maxMp": 890
+    },
+    {
+      "id": 86,
+      "level": 86,
+      "requiredExp": 91730446,
+      "maxHp": 1800,
+      "maxMp": 900
+    },
+    {
+      "id": 87,
+      "level": 87,
+      "requiredExp": 105392513,
+      "maxHp": 1820,
+      "maxMp": 910
+    },
+    {
+      "id": 88,
+      "level": 88,
+      "requiredExp": 121083390,
+      "maxHp": 1840,
+      "maxMp": 920
+    },
+    {
+      "id": 89,
+      "level": 89,
+      "requiredExp": 139120898,
+      "maxHp": 1860,
+      "maxMp": 930
+    },
+    {
+      "id": 90,
+      "level": 90,
+      "requiredExp": 159879033,
+      "maxHp": 1880,
+      "maxMp": 940
+    },
+    {
+      "id": 91,
+      "level": 91,
+      "requiredExp": 183800888,
+      "maxHp": 1900,
+      "maxMp": 950
+    },
+    {
+      "id": 92,
+      "level": 92,
+      "requiredExp": 211406021,
+      "maxHp": 1920,
+      "maxMp": 960
+    },
+    {
+      "id": 93,
+      "level": 93,
+      "requiredExp": 243306924,
+      "maxHp": 1940,
+      "maxMp": 970
+    },
+    {
+      "id": 94,
+      "level": 94,
+      "requiredExp": 280227963,
+      "maxHp": 1960,
+      "maxMp": 980
+    },
+    {
+      "id": 95,
+      "level": 95,
+      "requiredExp": 323022157,
+      "maxHp": 1980,
+      "maxMp": 990
+    },
+    {
+      "id": 96,
+      "level": 96,
+      "requiredExp": 372695480,
+      "maxHp": 2000,
+      "maxMp": 1000
+    },
+    {
+      "id": 97,
+      "level": 97,
+      "requiredExp": 429434802,
+      "maxHp": 2020,
+      "maxMp": 1010
+    },
+    {
+      "id": 98,
+      "level": 98,
+      "requiredExp": 494635022,
+      "maxHp": 2040,
+      "maxMp": 1020
+    },
+    {
+      "id": 99,
+      "level": 99,
+      "requiredExp": 569940275,
+      "maxHp": 2060,
+      "maxMp": 1030
+    },
+    {
+      "id": 100,
+      "level": 100,
+      "requiredExp": 657281316,
+      "maxHp": 2080,
+      "maxMp": 1040
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "monsters": [
+    {
+      "id": 1,
+      "name": "슬라임",
+      "hp": 50,
+      "damage": 5,
+      "exp": 20,
+      "drops": [
+        { "itemId": 1, "quantity": 1, "dropRate": 50 },
+        { "itemId": 3, "quantity": 1, "dropRate": 50 },
+        { "itemId": 4, "quantity": 10, "dropRate": 80 }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "고블린",
+      "hp": 100,
+      "damage": 10,
+      "exp": 50,
+      "drops": [
+        { "itemId": 1, "quantity": 2, "dropRate": 60 },
+        { "itemId": 2, "quantity": 1, "dropRate": 40 },
+        { "itemId": 3, "quantity": 2, "dropRate": 20 },
+        { "itemId": 4, "quantity": 30, "dropRate": 70 }
+      ]
+    }
+  ]
+}

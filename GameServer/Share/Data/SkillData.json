@@ -1,0 +1,34 @@
+{
+  "skills": [
+    {
+      "id": 1,
+      "name": "기본 공격",
+      "attackType": 0,
+      "damage": 10,
+      "mpCost": 0,
+      "range": 20.0,
+      "projectileSpeed": 20.0,
+      "cooldown": 0.5
+    },
+    {
+      "id": 2,
+      "name": "파이어볼",
+      "attackType": 1,
+      "damage": 25,
+      "mpCost": 10,
+      "range": 30.0,
+      "projectileSpeed": 15.0,
+      "cooldown": 1.0
+    },
+    {
+      "id": 3,
+      "name": "아이스볼트",
+      "attackType": 1,
+      "damage": 40,
+      "mpCost": 20,
+      "range": 25.0,
+      "projectileSpeed": 12.0,
+      "cooldown": 2.5
+    }
+  ]
+}

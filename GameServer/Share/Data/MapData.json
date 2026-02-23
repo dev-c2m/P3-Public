@@ -1,0 +1,28 @@
+{
+  "maps": [
+    {
+      "id": 1,
+      "name": "1층",
+      "nextMap": [2],
+      "spawnX": 0.0,
+      "spawnY": 1.0,
+      "spawnZ": 0.0,
+      "mapSize": 50.0,
+      "monsterSpawns": [
+        {"monsterId": 1, "count": 5, "spawnX": 0, "spawnZ": 0, "spawnRange": 50.0}
+      ]
+    },
+    {
+      "id": 2,
+      "name": "2층",
+      "nextMap": [1],
+      "spawnX": 0.0,
+      "spawnY": 51.0,
+      "spawnZ": 0.0,
+      "mapSize": 50.0,
+      "monsterSpawns": [
+        {"monsterId": 2, "count": 3, "spawnX": 0, "spawnZ": 0, "spawnRange": 50.0}
+      ]
+    }
+  ]
+}

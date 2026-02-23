@@ -1,0 +1,32 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "HP 회복 물약",
+      "description": "HP를 50 회복합니다.",
+      "type": 0,
+      "value": 50
+    },
+    {
+      "id": 2,
+      "name": "MP 회복 물약",
+      "description": "MP를 30 회복합니다.",
+      "type": 0,
+      "value": 30
+    },
+    {
+      "id": 3,
+      "name": "경험치 물약",
+      "description": "경험치를 100 획득합니다.",
+      "type": 0,
+      "value": 100
+    },
+    {
+      "id": 4,
+      "name": "코인",
+      "description": "게임 내 재화입니다.",
+      "type": 1,
+      "value": 0
+    }
+  ]
+}

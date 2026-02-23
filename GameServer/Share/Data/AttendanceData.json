@@ -1,0 +1,46 @@
+{
+  "attendances": [
+    {
+      "id": 1,
+      "startDate": "2026-02-10",
+      "endDate": "2026-02-27",
+      "rewards": [
+        {
+          "day": 1,
+          "itemId": 1,
+          "quantity": 5
+        },
+        {
+          "day": 2,
+          "itemId": 2,
+          "quantity": 5
+        },
+        {
+          "day": 3,
+          "itemId": 4,
+          "quantity": 100
+        },
+        {
+          "day": 4,
+          "itemId": 1,
+          "quantity": 10
+        },
+        {
+          "day": 5,
+          "itemId": 3,
+          "quantity": 1
+        },
+        {
+          "day": 6,
+          "itemId": 4,
+          "quantity": 300
+        },
+        {
+          "day": 7,
+          "itemId": 3,
+          "quantity": 3
+        }
+      ]
+    }
+  ]
+}
